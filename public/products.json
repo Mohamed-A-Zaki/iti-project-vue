@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name" : "Samsung Galaxy S10+",
+    "src" : "./imgs/products/yhx594uv-500x500.jpg",
+    "price":"1479",
+    "arriveDuration":"5 days"
+  },
+  {
+    "id": 2,
+    "name" : "Apple iPhone 11 Pro",
+    "src" : "./imgs/products/byeagjss-500x500.jpg",
+    "price":"2979",
+    "arriveDuration":"5 days"
+  },
+  {
+    "id": 3,
+    "name" : "Apple iPhone 11",
+    "src" : "./imgs/products/5bcb7q0f-500x500.jpg",
+    "price":"1919",
+    "arriveDuration":"5 days"
+  },
+  {
+    "id": 4,
+    "name" : "OnePlus 7 Pro",
+    "src" : "./imgs/products/mxzy0xf9-500x500.jpg",
+    "price":"1479",
+    "arriveDuration":"5 days"
+  },
+  {
+    "id": 5,
+    "name" : "Apple iPhone XR",
+    "src" : "./imgs/products/vmbb6qhr-500x500.jpg",
+    "price":"1639",
+    "arriveDuration":"5 days"
+  },
+  {
+    "id": 6,
+    "name" : "Apple iPhone X",
+    "src" : "./imgs/products/glmhtqql-500x500.jpg",
+    "price":"2709",
+    "arriveDuration":"5 days"
+  }
+]

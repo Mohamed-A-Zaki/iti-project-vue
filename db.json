@@ -1,0 +1,147 @@
+{
+  "electronics": [
+    {
+      "id": "e1",
+      "name": "Samsung Galaxy S10+",
+      "src": "/imgs/products/yhx594uv-500x500.jpg",
+      "price": "1479",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "e2",
+      "name": "Apple iPhone 11 Pro",
+      "src": "/imgs/products/byeagjss-500x500.jpg",
+      "price": "2979",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "e3",
+      "name": "Apple iPhone 11",
+      "src": "/imgs/products/5bcb7q0f-500x500.jpg",
+      "price": "1919",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "e4",
+      "name": "OnePlus 7 Pro",
+      "src": "/imgs/products/mxzy0xf9-500x500.jpg",
+      "price": "1479",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "e5",
+      "name": "Apple iPhone XR",
+      "src": "/imgs/products/vmbb6qhr-500x500.jpg",
+      "price": "1639",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "e6",
+      "name": "Apple iPhone X",
+      "src": "/imgs/products/glmhtqql-500x500.jpg",
+      "price": "2709",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    }
+  ],
+  "fitness": [
+    {
+      "id": "f1",
+      "name": "Auto Inclination Treadmill T-501",
+      "src": "/imgs/products/jsxcydcf-500x500.jpg",
+      "price": "2119",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "f2",
+      "name": "Motorized Treadmill AF-515",
+      "src": "/imgs/products/2u37uetw-500x500.jpg",
+      "price": "2359",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "f3",
+      "name": "Motorized Treadmill AF 517",
+      "src": "/imgs/products/x493rtif-500x500.jpg",
+      "price": "2359",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "f4",
+      "name": "Leg Massager IF-868",
+      "src": "/imgs/products/niqfc8xs-500x500.jpg",
+      "price": "1339",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    }
+  ],
+  "WFHEssentials": [
+    {
+      "id": "w1",
+      "name": "Stuart Study Table",
+      "src": "/imgs/products/hdnqmf56-500x500.jpg",
+      "price": "149",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "w2",
+      "name": "Morris Office Chair",
+      "src": "/imgs/products/g4ow6lcd-500x500.jpg",
+      "price": "199",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "w3",
+      "name": "Auto Inclination Treadmill T-501",
+      "src": "/imgs/products/jsxcydcf-500x500.jpg",
+      "price": "2119",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "w4",
+      "name": "Felix 3-Seater Fabric Sofa",
+      "src": "/imgs/products/mf3434ld-500x500.jpg",
+      "price": "789",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "w5",
+      "name": "Barney Leather Recliner",
+      "src": "/imgs/products/qcr7se17-500x500.jpg",
+      "price": "799",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    },
+    {
+      "id": "w6",
+      "name": "Miller Office Chair",
+      "src": "/imgs/products/m7bwzi92-500x500.jpg",
+      "price": "149",
+      "arriveDuration": "5 days",
+      "quantity": 1
+    }
+  ],
+  "cart": [],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
